@@ -23,4 +23,4 @@ En cada uno de estos tres apartados tenemos un botón "Añadir nuevo" mediante e
 
 El apartado "Playas" cuanta con un botón que nos permite buscar por nombre una playa registrada en la BBDD y nos devuelve los datos guardados.
 
-Se encuentra disponible también la url 'admin/' desde la que se puede ver y editar el contenido de la BBDD.
+Se encuentra disponible también la url 'admin/' desde la que se puede ver y editar el contenido de la BBDD. El usuario es mayra y la contraseña es Passadmin.
